@@ -927,8 +927,11 @@ def download_object(object_hash):
     response.headers["Cache-Control"] = "public, immutable, max-age=31536000"
     return response
 
-
 initialize_database()
 
 if __name__ == "__main__":
-    application.run(host=DEVELOPMENT_HOST, port=DEVELOPMENT_PORT, debug=False, threaded=True, ssl_context=build_development_ssl_context())
+    application.run(host="0.0.0.0", port=443, debug=False, threaded=True, ssl_context=build_development_ssl_context())
+
+
+
+
