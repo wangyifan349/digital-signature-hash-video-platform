@@ -166,6 +166,6 @@ If the Digital Signature Hash Video Platform is useful to you, consider supporti
 
 Bitcoin (BTC):
 
-`bc1qnavxqr67kt7jje2tl4rlksmaspzwrzu67f6z5e`
+```bc1qxqfhumpqtnxrznkx9r4xsp8m6zsedtgusjns7p```
 
 Your support helps improve this project’s Ed25519 signature workflow, SHA-256 integrity verification, public-key and hash-based search, and long-term maintenance.
