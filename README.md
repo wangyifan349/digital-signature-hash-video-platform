@@ -156,4 +156,16 @@ The compact orange-red interface has no gradients, and project-defined colors pl
 
 ## License
 
-GNU Affero General Public License v3.0 or later. Source repository: `https://github.com/wangyifan349/digital-signature-hash-video-platform`.
+GNU Affero General Public License v3.0 or later. 
+
+
+
+## Sponsor
+
+If the Digital Signature Hash Video Platform is useful to you, consider supporting its continued development, security review, documentation, and maintenance by buying me a coffee ☕.
+
+Bitcoin (BTC):
+
+`bc1qnavxqr67kt7jje2tl4rlksmaspzwrzu67f6z5e`
+
+Your support helps improve this project’s Ed25519 signature workflow, SHA-256 integrity verification, public-key and hash-based search, and long-term maintenance.
